@@ -8,5 +8,5 @@
 Git is free software.\
 Git is a distributed version control system.\
 Git is free distributed under the GPL.Git has a mutable index called stages.Git tracks changes.\
-Creating a new branch is quick & simple.
+Creating a --no-ff.
 }
